@@ -88,8 +88,16 @@ Steps performed:
 - Model evaluation
 
 ---
+## Visualizations
 
-## Results
+The project includes:
+
+- Feature correlation heatmap
+- Diabetes outcome distribution
+- Feature importance analysis
+
+
+---
 
 ## Results
 

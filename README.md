@@ -93,7 +93,7 @@ Steps performed:
 
 ## Results
 
-The Random Forest model achieved 82.4% accuracy in predicting diabetes risk.
+The Random Forest model achieved 74.6% accuracy in predicting diabetes risk.
 
 Key predictors identified:
 - Glucose level (strongest predictor)

@@ -113,6 +113,13 @@ This demonstrates that machine learning can effectively identify patients at hig
 
 ---
 
+## Model Performance Interpretation
+
+The model achieved 74.6% accuracy, demonstrating good predictive capability for clinical risk assessment. With additional data and feature engineering, performance can be further improved for real-world deployment.
+
+
+---
+
 ## Healthcare Impact
 
 This project demonstrates how healthcare data analytics and machine learning can help:

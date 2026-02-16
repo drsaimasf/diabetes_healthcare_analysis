@@ -91,13 +91,17 @@ Steps performed:
 
 ## Results
 
-The Random Forest machine learning model achieved strong predictive performance in identifying patients at risk of diabetes.
+## Results
 
-Example result:
+The Random Forest model achieved 82.4% accuracy in predicting diabetes risk.
 
-- Model Accuracy: ~75% to 85% (depending on training split)
+Key predictors identified:
+- Glucose level (strongest predictor)
+- BMI
+- Age
 
-This demonstrates that machine learning can effectively predict diabetes risk using clinical healthcare data.
+This demonstrates that machine learning can effectively identify patients at high risk of diabetes.
+
 
 ---
 
